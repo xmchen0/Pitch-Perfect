@@ -15,7 +15,7 @@ We learned how to implement AVFoundation properties such as:
 - audioPlayerNode
 
 
-![Alt Text](https://media.giphy.com/media/fWfZMEMeKvuHAfDHn9/giphy.gif)
+![Alt Text](https://media.giphy.com/media/1gQWkKSJ8GzloPnMT6/source.gif)
 
 
 
